@@ -1,0 +1,17 @@
+c:\users\user\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\bin\Debug\AllColumbusProduct.exe
+c:\users\user\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\bin\Debug\AllColumbusProduct.pdb
+c:\users\user\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.PL.FRM_Main.resources
+c:\users\user\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.exe
+c:\users\user\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.pdb
+c:\users\user\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.PL.FRM_SignIN.resources
+c:\users\user\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.PL.FRM_ChangPassword.resources
+c:\users\user\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.PL.FRM_BackUp.resources
+C:\Users\User\Documents\Visual Studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.PL.FRM_AddProduct.resources
+C:\Users\User\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.PL.FRM_ManagmentReport.resources
+C:\Users\User\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.PL.Frm_ProductImage.resources
+C:\Users\User\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.PL.FRM_UpdateProduct.resources
+C:\Users\User\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.PL.FRM_NormalReport.resources
+C:\Users\User\documents\visual studio 2010\Projects\AllColumbusProduct\AllColumbusProduct\obj\x86\Debug\AllColumbusProduct.PL.FRM_About.resources
